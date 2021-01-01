@@ -1,0 +1,3 @@
+[submodule "instachat2"]
+	path = instachat2
+	url = https://git.heroku.com/instachat2.git
